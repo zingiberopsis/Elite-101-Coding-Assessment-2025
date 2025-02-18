@@ -1,5 +1,3 @@
-# restaurantTables.py
-
 # ------------------------------------------------------------------------------------
 # The following 2D lists mimic a restaurant seating layout, similar to a grid.
 # 
